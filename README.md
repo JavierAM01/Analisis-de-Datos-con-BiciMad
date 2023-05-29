@@ -11,11 +11,11 @@ Para saber más sobre cómo guardan sus datos, podéis ver la documentación ofi
 
 * **MEMORIA.pdf: memoria completa**
 * main.py: script con todas las funciones de análisis de la memoria.
-* notas.ipynb: jupyter-notebook que contiene datos y gráficos de la memoria y el proceso seguido, así como detalles de código a la hora de realizar el trabajo.
-* ideas.ipynb: jupyter-notebook con diferentes ideas de análisis.
 
 Auxiliares
 
+* notas.ipynb: jupyter-notebook que contiene datos y gráficos de la memoria y el proceso seguido, así como detalles de código a la hora de realizar el trabajo.
+* ideas.ipynb: jupyter-notebook con diferentes ideas de análisis.
 * datos/: archivos de datos de prueba para el análisis. 
 * images/: imágenes para el readme.
 
